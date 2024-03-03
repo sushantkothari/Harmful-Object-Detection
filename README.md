@@ -16,8 +16,6 @@ The YOLO algorithm works by dividing the input image into a grid and predicting 
 - Person counting in the frame
 - OpenCV integration for visualizations and annotations
 
-![ae lavlya](https://github.com/9OmP/Custom-Object-Real-time-Detection/assets/104563841/83920396-f92b-4019-9904-267b3d81e1fa)
-
 
 ## Getting Started
 To run the project, follow these steps:
@@ -49,4 +47,4 @@ This project is open-source and released under the MIT License. You are free to 
 Special thanks to the Ultralytics team for their YOLO implementation and Mailjet for the email API.
 
 ## Contact
-For any questions or inquiries, please contact me at [ompatil16022002@gmail.com]
+For any questions or inquiries, please contact me at [sk619kotharii@gmail.com]
